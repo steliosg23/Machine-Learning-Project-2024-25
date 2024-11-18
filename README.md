@@ -68,8 +68,6 @@ This project focuses on analyzing hyperspectral image data from the **Pavia Univ
 - **Python**
   - NumPy, SciPy, scikit-learn, and Matplotlib
 - **MATLAB Files**: For handling `.mat` data
-- **Google Colab**: For efficient GPU utilization
-- **pgAdmin 4**: Database management for additional data exploration (if required)
 
 ## How to Run
 
